@@ -1,0 +1,7 @@
+deploy:
+  provider: heroku
+  api_key:
+    secure: LYwydLpTkhs4llgIZRvv1+CUbYE8d/kpUBZaidU2YF0VQqPq9y1Ys5QNeBDvefnSj6y+Z1aRgyEcC2UAd395axpTg0zDpPJbOepv0k+TQYdPYHPL8g7nsSgDHAnyIE8575iIGCJiQfGzOjcBSpQnzfk6LT7KCCl9dnq9JA3aETo=
+  app: minotake
+  on:
+    repo: kimihito/minotake
