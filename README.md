@@ -1,3 +1,3 @@
 my company page.
 
-http://mi-no.tk
+http://mntk.info
